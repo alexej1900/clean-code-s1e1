@@ -46,8 +46,8 @@
 
 #todo__list,
 #completed__list {
-  margin:0;
-  padding:0px;
+  margin: 0;
+  padding: 0;
 }
 
 .list__item {
@@ -79,7 +79,7 @@ button {
 .delete__btn,
 .add__btn {
   background: none;
-  border: 0px;
+  border: 0;
   color: #888;
   font-size: 15px;
   width: 60px;
