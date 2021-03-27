@@ -46,8 +46,8 @@
 
 #todo__list,
 #completed__list {
-  margin: 0;
-  padding: 0px;
+  margin:0;
+  padding:0px;
 }
 
 .list__item {
@@ -172,7 +172,8 @@ button {
 
 /* Completed */
 #completed__list .label {
-  text-decoration: line-through color: #888;
+  text-decoration: line-through;
+  color: #888;
 }
 
 /* Edit Task */
