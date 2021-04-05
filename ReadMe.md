@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/8201843/111080709-d1289200-8510-11eb-861c-c39de6d99691.png)
+https://github.com/alexej1900/clean-code-s1e1/index.html
 
 # Функционал приложения :
 
