@@ -1,4 +1,4 @@
-https://github.com/alexej1900/clean-code-s1e1/index.html
+https://alexej1900.github.io/clean-code-s1e1/
 
 # Функционал приложения :
 
